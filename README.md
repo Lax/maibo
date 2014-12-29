@@ -2,6 +2,8 @@
 
 maibo
 
+[![Gem Version](https://badge.fury.io/rb/maibo.png)](http://badge.fury.io/rb/maibo)
+
 ## Installation
 
 Add this line to your application's Gemfile:
